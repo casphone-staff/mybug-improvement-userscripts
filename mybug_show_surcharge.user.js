@@ -4,8 +4,8 @@
 // @version      0.7
 // @description  Display the Eftpos surcharge total
 // @author       Juniper
-// @updateURL    https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/mybug_show_surcharge.user.js
-// @downloadURL  https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/mybug_show_surcharge.user.js
+// @updateURL    https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/mybug_show_surcharge.user.js
+// @downloadURL  https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/mybug_show_surcharge.user.js
 // @match        https://mybug.com.au/sell/add*
 // @grant        none
 // ==/UserScript==
