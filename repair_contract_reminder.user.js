@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Repair Contract Reminder
 // @namespace    https://github.com/junething
-// @version      0.4
+// @version      0.5
 // @description  Remind staff to have the customer sign a contract adress the risk of breaking the screen when repairing iPhones 12 and up.
 // @author       Juniper
 // @match        https://mybug.com.au/repair*
-// @updateURL    https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/repair_contract_reminder.user.js
-// @downloadURL  https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/repair_contract_reminder.user.js
+// @updateURL    https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/repair_contract_reminder.user.js
+// @downloadURL  https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/repair_contract_reminder.user.js
 // @grant        none
 // ==/UserScript==
 
