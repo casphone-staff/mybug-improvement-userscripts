@@ -4,8 +4,8 @@
 // @version      0.3
 // @description  Add buttons above the search bar to add the color label items in one click.
 // @author       Juniper
-// @updateURL    https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/price_label_buttons.user.js
-// @downloadURL  https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/price_label_buttons.user.js
+// @updateURL    https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/price_label_buttons.user.js
+// @downloadURL  https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/price_label_buttons.user.js
 // @match        https://mybug.com.au/sell/add
 // @grant        none
 // ==/UserScript==
