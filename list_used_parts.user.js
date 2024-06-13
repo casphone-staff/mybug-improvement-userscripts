@@ -6,8 +6,8 @@
 // @author       Juniper
 // @match        https://mybug.com.au/repair/find
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mybug.com.au
-// @updateURL    https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/list_used_parts.user.js
-// @downloadURL  https://gist.github.com/junething/49e802f33f6c507a5e7fc4f37cf616be/raw/list_used_parts.user.js
+// @updateURL    https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/list_used_parts.user.js
+// @downloadURL  https://raw.githubusercontent.com/casphone-staff/mybug-improvement-userscripts/main/list_used_parts.user.js
 // @grant        none
 // ==/UserScript==
 
