@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         More Sales Numbers
 // @namespace    https://github.com/junething
-// @version      0.1
+// @version      0.3
 // @description  Create a report that includes sales AND repairs as seperate values for better comparison.
 // @author       Juniper
 // @match        https://mybug.com.au/sell/findendofday
